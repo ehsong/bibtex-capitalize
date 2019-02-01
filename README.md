@@ -1,2 +1,2 @@
 # capitalize
-Capitalize bibtex title and journal entries 
+Capitalize bibtex title and journal entries using Python 
