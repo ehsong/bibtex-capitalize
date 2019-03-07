@@ -3,16 +3,17 @@ Originally forked from [jaeyk/bibtex-capitalize](https://github.com/jaeyk/bibtex
 
 Depending on the `.bib` file your generator generate, you may need to change the regex in the `capitalize.ipynb` file. I made modifications because my `.bib` looks like this:
 
+
 `
-@article{jennings2005generations,  
-	Author = {Jennings, M Kent and Zhang, Ning},  
-	Date-Added = {2019-03-06 15:46:15 -0800},  
-	Date-Modified = {2019-03-06 15:46:15 -0800},  
-	Journal = {The Journal of Politics},  
-	Number = {4},  
-	Pages = {1164--1189},  
-	Publisher = {Cambridge University Press New York, USA},  
-	Title = {Generations, political status, and collective memories in the Chinese countryside},
-	Volume = {67},  
-	Year = {2005}} . 
+@article{hong2017trauma,\n
+	Author = {Hong, Ji Yeon and Kang, Woo Chang},\n
+	Date-Added = {2019-03-06 15:20:45 -0800},\n
+	Date-Modified = {2019-03-06 15:20:45 -0800},\n
+	Journal = {Conflict management and peace science},\n
+	Number = {3},\n
+	Pages = {264--286},\n
+	Publisher = {Sage Publications Sage UK: London, England},\n
+	Title = {Trauma and stigma: The long-term effects of wartime violence on political attitudes},\n
+	Volume = {34},\n
+	Year = {2017}}
 `
