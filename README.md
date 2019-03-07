@@ -5,7 +5,7 @@ Depending on the `.bib` file your generator generate, you may need to change the
 
 
 ```
-@article{hong2017trauma,\n
+@article{hong2017trauma,
 	Author = {Hong, Ji Yeon and Kang, Woo Chang},
 	Date-Added = {2019-03-06 15:20:45 -0800},
 	Date-Modified = {2019-03-06 15:20:45 -0800},
@@ -14,6 +14,21 @@ Depending on the `.bib` file your generator generate, you may need to change the
 	Pages = {264--286},
 	Publisher = {Sage Publications Sage UK: London, England},
 	Title = {Trauma and stigma: The long-term effects of wartime violence on political attitudes},
+	Volume = {34},
+	Year = {2017}}
+```
+After running the script:
+
+```
+@article{hong2017trauma,
+	Author = {Hong, Ji Yeon and Kang, Woo Chang},
+	Date-Added = {2019-03-06 15:20:45 -0800},
+	Date-Modified = {2019-03-06 15:20:45 -0800},
+	Journal = {Conflict Management and Peace Science},
+	Number = {3},
+	Pages = {264--286},
+	Publisher = {Sage Publications Sage UK: London, England},
+	Title = {Trauma and Stigma: The Long-Term Effects of Wartime Violence on Political Attitudes},
 	Volume = {34},
 	Year = {2017}}
 ```
